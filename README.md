@@ -1,2 +1,2 @@
 # mindo
-Mindo helps you build a mindful relationship with food
+A Flutter app for mindful eating with AI-powered insights.
